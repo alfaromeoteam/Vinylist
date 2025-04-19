@@ -1,35 +1,44 @@
-# 📍 Vinylist Roadmap
+# Vinylist – Roadmap
 
-## 🚀 Version 0.1 – Initial Release
-
-- [x] Import vinyl photos with camera or library
-- [x] Add metadata: artist, album, genre, year
-- [x] User ratings and personal notes
-- [x] Search and filter by name, genre, tags
+Version: 0.1  
+Maintainer: Matteo Pidalà - (matteo.pidala@gmail.com)
 
 ---
 
-## 🧭 Planned Features
+## ✅ Completed Features
 
-These features are scheduled for future releases:
-
-- [ ] iCloud sync  
-- [ ] Export/import collection  
-- [ ] Dark Mode customization  
-- [ ] Integration with Discogs API for auto metadata  
-- [ ] Custom vinyl lists (e.g. favorites, wishlist)  
-- [ ] Barcode/QR scanning for faster entry  
-- [ ] Statistics & insights (most played, top rated)
-
----
-
-## 📌 Versioning
-
-- **Current version**: `0.1`
-- Semantic versioning will be used (e.g. `0.1.0`, `0.2.0`, `1.0.0`)
+- [x] Add/Edit vinyls manually
+- [x] Store vinyl details: title, artist, year, condition, market value, notes
+- [x] Cover image via photo picker
+- [x] Rating system (1–5)
+- [x] Favorite toggle
+- [x] Media type selection (33 RPM, 45 RPM, Cassette, CD, Other)
+- [x] Barcode scanning with camera
+- [x] Barcode field stored per vinyl
+- [x] Search Discogs API using barcode
+- [x] Autofill from Discogs: title, artist, year, label, format, estimated value
+- [x] Stats screen with pie chart by condition or value
+- [x] Filtering and sorting (condition, media type, favorites, value)
+- [x] Dark mode UI
+- [x] Save to local model in SwiftUI using @ObservedObject
 
 ---
 
-## 💬 Suggestions?
+## 🟡 In Progress / Next Up
 
-Feel free to open an issue or discussion for feature requests, bug reports, or ideas!
+- [ ] GitHub integration and changelog commits (0.1 final)
+- [ ] Create tag `v0.1-final` with all current features synced
+
+---
+
+## 🔜 Planned for v0.2+
+
+- [ ] iCloud sync
+- [ ] Export/Import collection (JSON, CSV)
+- [ ] Discogs search by keyword (artist + album)
+- [ ] Full Discogs integration (release info, tracklist, cover)
+- [ ] Visual stats: most collected labels/artists
+- [ ] App lock with Face ID
+- [ ] Widget with “vinyl of the day”
+- [ ] Gamification: badges for milestones
+
