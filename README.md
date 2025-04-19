@@ -41,27 +41,7 @@ Vinylist/ ├── Models/ ├── Views/ ├── ViewModels/ ├── Ser
 
 ---
 
-## 🚧 Roadmap
-
-- [x] Add vinyl with cover image  
-- [x] User ratings and notes  
-- [x] Search and filter functionality  
-- [ ] iCloud sync  
-- [ ] Export/import collection  
-- [ ] Dark Mode customization  
-- [ ] Integration with Discogs API  
-
----
-
-## 📄 License
-
-This project is **source-visible but not open source**.
-
-You may use the app and its code **as-is**, including in commercial environments, but you are **not allowed to modify, fork, or redistribute** any part of the code without explicit permission from the author.
-
-For permissions or licensing inquiries, please contact:
-
-**Marco Rossi**  
+**Matteo Pidalà**  
 📧 matteo.pidala@gmail.com
 
 See the [LICENSE](LICENSE) file for full terms.
