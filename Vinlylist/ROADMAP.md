@@ -1,6 +1,6 @@
 # Vinylist – Roadmap
 
-Version: 0.1  
+Version: 0.1 — **EOL (novembre 2026): roadmap chiusa, nessuna delle voci pianificate verrà realizzata.**  
 Maintainer: Matteo Pidalà - (matteo.pidala@gmail.com)
 
 ---
