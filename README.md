@@ -1,5 +1,17 @@
 # Vinylist 🎵
 
+> [!WARNING]
+> **🛑 End of Life — progetto non più mantenuto (novembre 2026)**
+>
+> Vinylist è stato abbandonato e questo repository è archiviato in sola lettura.
+> Il codice resta pubblico solo come riferimento storico: non riceverà aggiornamenti,
+> correzioni di bug o patch di sicurezza, e issue/pull request non verranno gestite.
+>
+> **Stato al momento della chiusura:** prototipo SwiftUI (iOS 18.2) con aggiunta/modifica
+> di vinili in memoria. I dati **non** vengono salvati in modo persistente; alcune funzioni
+> descritte in `CHANGELOG.md` / `ROADMAP.md` non sono presenti in questo repository.
+> Il dominio `vinylistapp.io` non è più collegato a questo progetto.
+
 **Vinylist** is a sleek and intuitive iOS app designed to help you catalog, rate, and explore your personal vinyl record collection. Whether you're a casual listener or a dedicated collector, Vinylist offers a delightful way to preserve and enjoy your analog music archive.
 
 ---

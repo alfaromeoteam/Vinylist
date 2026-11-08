@@ -1,5 +1,11 @@
 # Changelog
 
+## EOL (2026-11-08)
+
+- Progetto dichiarato End of Life e archiviato. Nessuno sviluppo futuro.
+- Rimosso il dominio personalizzato GitHub Pages (`docs/CNAME`).
+- Rimossi i file `.DS_Store` dal repository.
+
 ## v0.1-final (2025-04-19)
 
 ### Added
